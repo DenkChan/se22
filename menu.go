@@ -36,6 +36,5 @@ func main() {
         } else {
             fmt.Println("command not found, try \"help\"")
         }
- 
     }
 }
